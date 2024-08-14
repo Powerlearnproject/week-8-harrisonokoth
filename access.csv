@@ -1,0 +1,13 @@
+Access ID,Region ID,Source ID,Percentage of Population With Access,,,,Region ID,Region Name,Population,,Source ID,Source Type,Quality Rating
+1,1,1,40,,,,1,Ganze,15000,,1,River,2
+2,1,2,60,,,,2,Bamba,23000,,2,Well,4
+3,2,2,70,,,,3,Shakahola,12000,,3,Rainwater Harvesting,3
+4,2,3,30,,,,4,Konjora,18000,,,,
+5,3,1,50,,,,5,Majajani,21000,,,,
+6,3,3,50,,,,6,Langobaya,19000,,,,
+7,4,1,35,,,,,,,,,,
+8,4,3,65,,,,,,,,,,
+9,5,2,45,,,,,,,,,,
+10,5,3,55,,,,,,,,,,
+11,6,1,25,,,,,,,,,,
+12,6,2,75,,,,,,,,,,
